@@ -1,3 +1,8 @@
+@font-face {
+font-family: "SegoeUI";
+src: url("https://colinbrandonpierce.com/files/SEGOEUI.woff") format("woff"),
+}
+
 body {
 margin:30px auto;
 max-width: 650px;
