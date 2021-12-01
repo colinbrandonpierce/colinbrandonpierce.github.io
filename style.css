@@ -1,19 +1,9 @@
-@font-face {
-font-family: "SEGOEUI";
-src: url("https://colinbrandonpierce.com/files/SEGOEUI.woff") format("woff"),
-}
-
 body {
 margin:30px auto;
 max-width: 650px;
 line-height:1.6;
+font-family: Garamond, serif;
 font-size:18px;
 color:#444;
 background-color:#EEE;
-}
-
-h1 {
-font-family: 'SEGOEUI', Arial, sans-serif;
-font-weight:normal;
-font-style:normal;
 }
