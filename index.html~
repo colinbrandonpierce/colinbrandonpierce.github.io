@@ -1,7 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>   
-<title>Home | colinbrandonpierce.com</title>
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-673Y3569WN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-673Y3569WN');
+</script>
+
+    <title>Home | colinbrandonpierce.com</title>
     <link rel="shortcut icon" href="pics\icon.ico">
     <link rel="stylesheet" href="style.css"/>
   </head>
